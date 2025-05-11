@@ -4,13 +4,14 @@ This repository contains my submission for the Dropbox Data/Analytics assessment
 
 ## 🗂 Project Structure
 
-```
-dropbox-assessment/
+```dropbox-assessment/
 │
-├── data_cleaning.ipynb         # Python notebook for cleaning and preparing the dataset
-├── dashboard/                  # Interactive dashboard files (built Tableau Public)
-├── presentation_slide.pptx     # Executive summary slide highlighting key findings
-├── README.md                   # Project overview and documentation (you are here)
+├── Assessment Data Cleaning and EDA.ipynb   # Python notebook for cleaning the data and exploring key metrics
+├── dropbox_assessment_sql.py                # SQL queries used during the analysis (if applicable)
+├── Dropbox Customer Support Dashboard.pdf   # PDF version of the interactive dashboard
+├── Dropbox- Customer Support Analysis.pdf   # Executive summary slide with key insights
+├── README.md                                # Project overview and documentation (you are here)
+
 ```
 
 ## 📊 Dashboard
@@ -23,7 +24,7 @@ The interactive dashboard provides a visual summary of the cleaned dataset, high
 
 ## 🧹 Data Cleaning (Python)
 
-The `data_cleaning.ipynb` notebook walks through the process of:
+The `Assessment Data Cleaning and EDA.ipynb` notebook walks through the process of:
 
 * Importing and exploring the dataset
 * Handling missing or inconsistent data
@@ -32,10 +33,10 @@ The `data_cleaning.ipynb` notebook walks through the process of:
 
 ## 🖼 Executive Slide
 
-The `presentation_slide.pptx` file summarizes the most important findings from the analysis. It includes:
+The `Dropbox- Customer Support Analysis.pdf` file summarizes the most important findings from the analysis. It includes:
 
 * A high-level insight or recommendation
-* Visuals or KPIs from the dashboard
+* Visuals and KPIs from the dashboard
 * Context for decision-makers
 
 ## ✅ How to Use
