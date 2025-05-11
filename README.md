@@ -14,13 +14,14 @@ This repository contains my submission for the Dropbox Data/Analytics assessment
 
 ```
 
-## 📊 Dashboard
+## 📊 Dashboardb (Tableau Public)
 
-The interactive dashboard provides a visual summary of the cleaned dataset, highlighting trends, outliers, and actionable insights. It includes:
+The `Dropbox Customer Support Dashboard.pdf` provides a visual summary of the cleaned dataset, highlighting trends, outliers, and actionable insights. It includes:
 
 * Key performance indicators
 * Filterable charts and tables
 * User-friendly layout for stakeholders
+* Can also use the following link for access: `https://public.tableau.com/views/DropboxCustomerSupportDashboard/DropboxCustomerSupportDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link`
 
 ## 🧹 Data Cleaning (Python)
 
