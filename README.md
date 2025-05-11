@@ -9,12 +9,12 @@ This repository contains my submission for the Dropbox Data/Analytics assessment
 ├── Assessment Data Cleaning and EDA.ipynb   # Python notebook for cleaning the data and exploring key metrics
 ├── dropbox_assessment_sql.py                # SQL queries used during the analysis (if applicable)
 ├── Dropbox Customer Support Dashboard.pdf   # PDF version of the interactive dashboard
-├── Dropbox- Customer Support Analysis.pdf   # Executive summary slide with key insights
+├── Dropbox- Customer Support Analysis.pdf   # PDF version of Executive summary slide with key insights
 ├── README.md                                # Project overview and documentation (you are here)
 
 ```
 
-## 📊 Dashboardb (Tableau Public)
+## 📊 Dashboard (Tableau Public)
 
 The `Dropbox Customer Support Dashboard.pdf` provides a visual summary of the cleaned dataset, highlighting trends, outliers, and actionable insights. It includes:
 
